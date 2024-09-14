@@ -1,0 +1,6 @@
+@EduraTask_HostAddress = http://localhost:5196
+
+GET {{EduraTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
